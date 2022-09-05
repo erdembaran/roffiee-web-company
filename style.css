@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Silkscreen&display=swap");
+
+.navbar-brand {
+  font-family: "Silkscreen", cursive;
+}
+
+.header-svg {
+  width: 50% !important;
+  height: 300px !important;
+}
+
+.services-svg {
+  width: 50% !important;
+  height: 120px !important;
+}
+
+.example-img {
+  height: 350px !important;
+}
+
+.example-web:hover {
+  background-color: #483838 !important;
+}
+
+.team-header {
+  letter-spacing: 1px;
+}
+
+.team-icons:hover {
+  color: #5800ff !important;
+}
+
+.container-phone,
+.container-email {
+  height: 129.99px !important;
+}
+
+.fa-circle-up:hover {
+  color: #ffb200;
+}
+
+.contact-items {
+  background-color: #ececec !important;
+}
+
+footer i:hover {
+  color: #f2df3a !important;
+}
